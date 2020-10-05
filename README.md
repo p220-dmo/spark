@@ -2,9 +2,9 @@
 Quoi de mieux que des exemples issus de la pratique pour s'initier au monde du Big Data.
 C'est une longue série d'exercices orgnisés comme suit: 
 * [Spark Core](spark-core.md)
-* [Spark DataFrame/DataSet](https://github.com/p220-dmo/spark/blob/master/spark-dataframe-dataset.md)
-* [Spark Streaming](https://github.com/p220-dmo/spark/blob/master/spark-streaming.md)
-* [Spark Structured Streaming](https://github.com/p220-dmo/spark/blob/master/spark-structured-streaming.md)
+* [Spark DataFrame/DataSet](park-dataframe-dataset.md)
+* [Spark Streaming](spark-streaming.md)
+* [Spark Structured Streaming](spark-structured-streaming.md)
     * Le checkpointing detrourné
 
-Les données utilisées dans le cadre de ces exercices sont issues de la suite de test du moteur OLAP de Pentaho Mondrian. La description des datasets est accesible [ici](https://github.com/p220-dmo/spark/blob/master//datasetdescription.md)
+Les données utilisées dans le cadre de ces exercices sont issues de la suite de test du moteur OLAP de Pentaho Mondrian. La description des datasets est accesible [ici](datasetdescription.md)
